@@ -1,0 +1,13 @@
+C:\Users\dip\source\repos\docu\Docui\obj\Debug\netstandard2.0\Docui.csprojAssemblyReference.cache
+C:\Users\dip\source\repos\docu\Docui\obj\Debug\netstandard2.0\Docui.AssemblyInfoInputs.cache
+C:\Users\dip\source\repos\docu\Docui\obj\Debug\netstandard2.0\Docui.AssemblyInfo.cs
+C:\Users\dip\source\repos\docu\Docui\obj\Debug\netstandard2.0\Docui.csproj.CoreCompileInputs.cache
+C:\Users\dip\source\repos\Docui\bin\Debug\netstandard2.0\Docui.deps.json
+C:\Users\dip\source\repos\Docui\bin\Debug\netstandard2.0\Docui.dll
+C:\Users\dip\source\repos\Docui\bin\Debug\netstandard2.0\Docui.pdb
+C:\Users\dip\source\repos\Docui\obj\Debug\netstandard2.0\Docui.csprojAssemblyReference.cache
+C:\Users\dip\source\repos\Docui\obj\Debug\netstandard2.0\Docui.AssemblyInfoInputs.cache
+C:\Users\dip\source\repos\Docui\obj\Debug\netstandard2.0\Docui.AssemblyInfo.cs
+C:\Users\dip\source\repos\Docui\obj\Debug\netstandard2.0\Docui.csproj.CoreCompileInputs.cache
+C:\Users\dip\source\repos\Docui\obj\Debug\netstandard2.0\Docui.dll
+C:\Users\dip\source\repos\Docui\obj\Debug\netstandard2.0\Docui.pdb
